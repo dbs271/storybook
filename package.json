@@ -52,6 +52,7 @@
     "@storybook/react": "^7.6.5",
     "@storybook/react-webpack5": "^7.6.5",
     "@storybook/test": "^7.6.5",
+    "chromatic": "^10.1.0",
     "eslint-plugin-storybook": "^0.6.15",
     "prop-types": "^15.8.1",
     "storybook": "^7.6.5",
